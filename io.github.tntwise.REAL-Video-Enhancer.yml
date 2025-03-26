@@ -26,8 +26,8 @@ modules:
 
     sources:
       - type: archive
-        url: https://github.com/TNTwise/REAL-Video-Enhancer/releases/download/RVE-2.2.0-1/REAL-Video-Enhancer-2.2.0-Linux.zip
-        sha256: dfa13cdeaf2e2b8a9a2d79912131e7a836eb894846e8fb63284618403f3a7de9
+        url: https://github.com/TNTwise/REAL-Video-Enhancer/releases/download/RVE-2.2.5/REAL-Video-Enhancer-2.2.5-Linux.zip
+        sha256: 5474327cb6bd8caf85d0de53ea3c1776653ff207df5d2a82766c8580f21ccab1
 
 
       - type: file
